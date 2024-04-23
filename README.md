@@ -55,7 +55,7 @@ One of the main advantages of working with SQLAlchemy is that it is compatible w
 
 Furthermore, it performs data sanitization, preventing SQL Injection attacks.
 
-![image](assets/frontend.png)
+![image](assets/arquitetura.png)
 
 Another point is that you can work with native Python methods, such as filter, which is widely used to create filters in lists. This makes our lives a lot easier, as we don't need to learn a new language to communicate with the database. Anyone who is familiar with Pandas will feel at home.
 
